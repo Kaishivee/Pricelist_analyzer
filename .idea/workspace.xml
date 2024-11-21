@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8449029a-bba5-4764-9d35-58786156f132" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/my_proj.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_0.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cost_/price_7.csv" afterDir="false" />
+    <list default="true" id="8449029a-bba5-4764-9d35-58786156f132" name="Changes" comment="finish">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/diploma_thesis/my_proj"
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/diploma_thesis/my_proj",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -79,6 +66,46 @@
       <option name="presentableId" value="Default" />
       <updated>1731683547881</updated>
     </task>
+    <task id="LOCAL-00001" summary="finish">
+      <option name="closed" value="true" />
+      <created>1731937456878</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731937456878</updated>
+    </task>
+    <task id="LOCAL-00002" summary="finish">
+      <option name="closed" value="true" />
+      <created>1731937462324</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731937462324</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish">
+      <option name="closed" value="true" />
+      <created>1731937595925</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731937595925</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish" />
   </component>
 </project>
